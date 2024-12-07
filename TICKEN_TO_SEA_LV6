@@ -39,7 +39,7 @@ openButton.TextColor3 = Color3.fromRGB(255, 105, 180)
 openButton.BorderColor3 = Color3.fromRGB(148, 0, 211) 
 openButton.MouseButton1Click:Connect(function()
     
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/TO_SEA_LV6/refs/heads/main/TO_SEA_LV6"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/CHECK_SEVER_to_sea_lv6/refs/heads/main/CHECK_SEVER_to_sea_lv6"))()
     menu:Destroy() 
 end)
 
